@@ -1,6 +1,6 @@
 === Google+ Add to Circles ===
 Contributors: boldperspective
-Tags: social, google+, widget
+Tags: social, google+, widget, badge, circles, google page, google plus
 Requires at least: 2.7
 Tested up to: 3.3
 Stable Tag: 1.0
@@ -11,9 +11,9 @@ This plugin allows you to add a Google+ Add to Circles Badge via a widget.
 
 Google+ Add to Circles lets you easily add the [Google+ Badge](https://developers.google.com/+/plugins/badge/ "Google+ Badges") to your WordPress website with a widget. 
 
-**Disclaimer:** This Google+ Badge only works with Google+ Pages, *not* Google+ Profiles.
+**Disclaimer:** Google only lets this Google+ badge work with Google+ Pages, not profiles. 
 
-It also adds Google+ Direct Connect, allowing Google+ users to add you to their circles from within Google Search Results.
+Google+ Add to Circles also adds Google+ Direct Connect, allowing Google+ users to add you to their circles from within Google Search Results.
 
 Brought to by [wpLifeGuard](http://wplifeguard.com/ "WordPress Video Tutorials").
 
