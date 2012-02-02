@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Google+ Add to Circles
-Plugin URI: 
+Plugin URI: http://wordpress.org/extend/plugins/google-add-to-circles/
 Description: This plugin adds the Google+ Badge and Google+ Direct Connect to your WordPress website. Note, the Google+ badge only works for Google+ pages - not profiles.
 Version: 1.0
 Author: Brian Purkiss
