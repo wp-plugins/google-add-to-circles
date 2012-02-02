@@ -32,10 +32,10 @@ function gatc_create_menu() {
 	add_options_page( 'Add to Circles Settings', 'Add to Circles Settings', 'install_plugins', 'gatc-settings', 'gatc_plugin_settings_page' );
 
 	//call register settings function
-	add_action( 'admin_init', 'register_mysettings' );
+	add_action( 'admin_init', 'gatc_register_mysettings' );
 }
 
-function register_mysettings() {
+function gatc_register_mysettings() {
 	//register our settings
 	register_setting( 'gatc-settings-group', 'gatc_google_plus_id' );
 }

@@ -3,7 +3,7 @@ Contributors: boldperspective
 Tags: social, google+, widget, badge, circles, google page, google plus
 Requires at least: 2.7
 Tested up to: 3.3
-Stable Tag: 1.0
+Stable Tag: 1.0.1
 
 This plugin allows you to add a Google+ Add to Circles Badge via a widget.
 
@@ -41,6 +41,9 @@ Google+ Profiles are for humans – Google+ Pages are for corporations, website
 2. The Google+ Add to Circles Badge
 
 == Changelog ==
+
+= 1.0.1 =
+* Changed the name of a function to prevent a fatal error from possibly being triggered
 
 = 1.0 =
 * Plugin released.
